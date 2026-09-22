@@ -3,14 +3,14 @@
 
 This is a dynamic and user-friendly Todo List web app built with **React**. Users can add multiple task categories (headings) and insert multiple task items under each heading.
 
-## ✨ Features
+## Features
 
 - Add and delete **task headings** (e.g., Grocery, Office Work)
 - Add and delete **individual tasks** under each heading
 - All form inputs are fully controlled using React's `useState`
 - Clean CSS layout with responsive flexbox styling
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 
@@ -28,7 +28,7 @@ React-ToDoList/
 
 ````
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Clone the repo:
    ```bash
